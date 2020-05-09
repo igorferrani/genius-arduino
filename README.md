@@ -9,9 +9,9 @@ Em tempo de pandemia (covid-19) resolvi criar um jogo de memória utilizando Ard
 
 ## Configurações do circuito
 
-Para a montagem do circuito foi utilizando alguns componentes:
+Para a montagem do circuito foi utilizado alguns componentes:
 
-- 1 Arduino UNO R3
+- 1 Arduino UNO
 - 6 botoões de fliperama arcade com led
 - 1 protoboard/placa de ensaio 400 furos
 - 4 resistores 220 ohms
