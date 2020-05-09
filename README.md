@@ -1,9 +1,11 @@
 # jogo-memoria-arduino
-Jogo de memória feito com Arduino Uno R3 baseado no jogo Genius.
+Jogo de memória feito com Arduino Uno baseado no jogo Genius (Imagem abaixo).
+
+<img src="game-genius.jpg" width="300">
 
 Em tempo de pandemia (covid-19) resolvi criar um jogo de memória utilizando Arduino para entreter as crianças dentro de casa.
 
-[![Demonstração de uso do jogo](image.png)](demo.mp4)
+[<img src="image.png" width="400">](demo.mp4)
 
 ## Configurações do circuito
 
@@ -17,4 +19,4 @@ Para a montagem do circuito foi utilizando alguns componentes:
 
 No projeto abaixo utilizei o interruptor deslizante para simular os botões analógicos de arcade, mas a lógica é a mesma.
 
-![Demonstração do circuito](circuito.png)
+<img src="circuito.png" width="500">
